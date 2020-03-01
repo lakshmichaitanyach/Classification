@@ -3,4 +3,4 @@ Logistic Regression, Random Forest Trees, SVM , Multi-layer perceptron, Mini-bat
 
 
 
-Logistic Regression, Random Forest Trees, SVM , Multi-layer perceptron, Mini-batch Stochastic Gradient descent
+
